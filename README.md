@@ -58,7 +58,22 @@ Slicer: Allows filtering the data by year and month wise and date range for more
 
 Card: Highlights key figures such as total sales,profit etc..
 
-profit and sales by product 
+profit and Sales by Product: visualized by clustered column chart comparing sales and profit across various 
+product. Amarilla have most no: of sales $18M and profit $3M, second is carretera have sales $14M and profit $2M
+montana and paseo respectively
+
+profit and Sales by Segment: clustered Bar chart comparing sales and profit across various segment.
+government is the most no: of sales and profit ,sales $53M and profit $11M 
+segment wise profit second most profit is  small business $4M and enterprises have no profit -0.6M
+but sales wise enterprises have $20M  second most sale is small business with $42M
+
+Profit and sales by discound band: profit by discound band reprsented donut chart low discount band $6.19M with 
+36.63%  percentage second is medium $5.58M with 33.03% percentage .high and none are respectively
+Treemap illustrating sales distribution across different discound band medium have most no: of sales $38.78M and high is second $37.37M. low and none are respectively
+
+Segmenting Visuals Country Representation: Sales data visualized on a map to show distribution across different countries.
+
+
 
 
 
