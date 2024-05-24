@@ -62,20 +62,19 @@ The report includes the following visuals to convey insights effectively:
    profit $3M.velo and amarilla respectively sales and profit
 
 4.profit and Sales by Segment:      clustered Bar chart comparing sales and profit across various segment.
-   government is the most no: of sales and profit ,sales $53M and profit $11M 
-   segment wise profit second most profit is  small business $4M and enterprises have no profit -0.6M
-   but sales wise enterprises have $20M sales ,second most sale is small business with $42M
-
-5.Profit and sales by discound band:       profit by discound band reprsented donut chart low discount band $6.19M with 36.63%  percentage second is medium $5.58M with 33.03% percentage .high and none are respectively
+   Government is the most no: of sales and profit ,sales $53M and profit $11M 
+   segment wise profit second most profit is  small business $4M and also second most sale is small business
+   with $42M.Enterprises have no profit -0.6M but sales wise enterprises have $20M sales
+   
+5.Profit and sales by discound band:       profit by discound band reprsented donut chart highest is low discount band $6.19M with 36.63%  percentage second is medium $5.58M with 33.03% percentage .high and none are respectively
 Treemap illustrating sales distribution across different discound band medium have most no: of sales $38.78M and high is second $37.37M. low and none are respectively
 
-6.Segmenting Visuals Country Representation:      Sales data visualized on a map to show distribution across different countries.US have most no: of sales $25.03M canada have $24.89M .France germany mexico respectively
+6.Segmenting Visuals Country Representation:      Sales data visualized on a map to show distribution across different countries.United states of america have most no: of sales $25.03M canada have $24.89M .France germany mexico respectively
 
 7.Sales and Profit growth by year:  Sales and profit grwoth year, month quater,day wise visualized using 
 stacked column chart. Sales and profit  by month october  have most sales $22M  and so obviosly profit is high in
-october with $3.4M second december have most sales and profit. 2014 is the most no sales and profit  by year 
-comparing with perivious year 2013 next year have huge range of sale and profit and quater wise sales and profit Q4
-is high 
+october with $3.4M.Second december have most sales and profit. 2014 is the most no sales and profit  by year 
+comparing with perivious year 2013.  It have high range of sale and profit differnce shown.Quater wise sales and profit Q4 is High 
 
 The analysis reveals several key insights, including:
 
